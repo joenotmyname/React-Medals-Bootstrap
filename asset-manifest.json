@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/.github.io/React-Medals-Bootstrap/static/css/main.1df71ad3.css",
+    "main.js": "/.github.io/React-Medals-Bootstrap/static/js/main.3bfc5eda.js",
+    "static/js/592.ab0553fc.chunk.js": "/.github.io/React-Medals-Bootstrap/static/js/592.ab0553fc.chunk.js",
+    "index.html": "/.github.io/React-Medals-Bootstrap/index.html",
+    "main.1df71ad3.css.map": "/.github.io/React-Medals-Bootstrap/static/css/main.1df71ad3.css.map",
+    "main.3bfc5eda.js.map": "/.github.io/React-Medals-Bootstrap/static/js/main.3bfc5eda.js.map",
+    "592.ab0553fc.chunk.js.map": "/.github.io/React-Medals-Bootstrap/static/js/592.ab0553fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1df71ad3.css",
+    "static/js/main.3bfc5eda.js"
+  ]
+}
